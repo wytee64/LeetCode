@@ -1,3 +1,5 @@
+package MEDIUM;
+
 import java.util.HashSet;
 
 class Solution {
